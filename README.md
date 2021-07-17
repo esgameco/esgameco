@@ -7,7 +7,7 @@ I have the most experience in building APIs and scraping, as well as video compo
 I plan on doing at least one commit per day for the next month.
 
 You can contact me at chancevodnoy129@gmail.com.  
-I am currently looking for a job.  
+I am currently looking for an internship.  
 
 <!--
 **esgameco/esgameco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
