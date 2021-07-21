@@ -1,7 +1,7 @@
 ### Chance Vodnoy
 
 My main focus right now is on learning full-stack web development skills.  
-I'm interested in AI, game and web development.  
+I'm interested in AI, game and web development, as well as crypto.  
 
 I have the most experience in building APIs and scraping, as well as video composition in python.  
 I plan on doing at least one commit per day for the next month.
